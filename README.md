@@ -1,3 +1,3 @@
 # my-portfolio
-This is my first repositery
-author- Soham Rana
+This is my first repositery.
+Author- Soham Rana
